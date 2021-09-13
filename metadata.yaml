@@ -1,0 +1,39 @@
+_repo: The-Seven-Lamps-of-Advocacy_66162
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parry, Edward Abbott, Sir
+    aliases:
+    - Parry, Judge
+    - Parry, Sir Edward Abbott
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '4416'
+    url: http://www.gutenberg.org/2009/agents/4416
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Abbott_Parry
+description: ''
+gutenberg_issued: '2021-08-29'
+identifiers:
+  gutenberg: '66162'
+language: en
+pgterms:marc904: https://archive.org/details/sevenlampsofadvo00parr/page/2/mode/2up
+pgterms:marc905: 20200708135341parry
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: David E. Brown and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: United Kingdom :T. Fisher Unwin,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Lawyers'
+- !lcsh 'Legal ethics'
+- GITenberg
+tableOfContents: The lamp of honesty -- The lamp of courage -- The lamp of industry
+  -- The lamp of wit -- The lamp of eloquence -- The lamp of judgment -- The lamp
+  of fellowship.
+title: The Seven Lamps of Advocacy
+url: http://www.gutenberg.org/ebooks/66162
